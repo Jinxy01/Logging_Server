@@ -1,0 +1,29 @@
+User: 3233 || Message:  adeus || Date: Sun Jun 10 14:19:46 2018
+User: 3242 || Message:  ola || Date: Sun Jun 10 14:21:22 2018
+User: 3242 || Message:  ola || Date: Sun Jun 10 14:21:23 2018
+User: 3308 || Message:  asol || Date: Sun Jun 10 14:26:13 2018
+User: 3934 || Message:  olas || Date: Sun Jun 10 14:58:00 2018
+User: 3934 || Message:  boas || Date: Sun Jun 10 14:58:02 2018
+User: 4084 || Message:  estive aqui || Date: Sun Jun 10 15:11:20 2018
+User: 4150 || Message:  ta quente || Date: Sun Jun 10 15:12:18 2018
+User: 4150 || Message:  o q? || Date: Sun Jun 10 15:12:29 2018
+User: 4150 || Message:  o mapa mundo:) || Date: Sun Jun 10 15:12:35 2018
+User: 4307 || Message:  lol || Date: Sun Jun 10 15:20:56 2018
+User: 4360 || Message:  ola || Date: Sun Jun 10 15:21:58 2018
+User: 4360 || Message:  tudo bem || Date: Sun Jun 10 15:22:07 2018
+User: 4360 || Message:  ? || Date: Sun Jun 10 15:22:08 2018
+User: 11486 || Message:  Estou aqui || Date: Sun Jun 10 19:23:00 2018
+User: 11472 || Message:  eu tambem || Date: Sun Jun 10 19:22:47 2018
+User: 11472 || Message:  mas vou || Date: Sun Jun 10 19:23:23 2018
+User: 11486 || Message:  ok || Date: Sun Jun 10 19:23:20 2018
+User: 11486 || Message:  adeus || Date: Sun Jun 10 19:23:28 2018
+User: 11490 || Message:  ola || Date: Sun Jun 10 19:23:37 2018
+User: 11486 || Message:  nao || Date: Sun Jun 10 19:23:29 2018
+User: 11490 || Message:  ok || Date: Sun Jun 10 19:23:39 2018
+User: 11492 || Message:  ola || Date: Sun Jun 10 19:24:29 2018
+User: 11492 || Message:  adeus || Date: Sun Jun 10 19:24:30 2018
+User: 11495 || Message:  oi || Date: Sun Jun 10 19:24:50 2018
+User: 11497 || Message:  hey || Date: Sun Jun 10 19:24:55 2018
+User: 11495 || Message:  bye || Date: Sun Jun 10 19:24:52 2018
+User: 11918 || Message:  ola || Date: Sun Jun 10 19:30:54 2018
+User: 11918 || Message:  tudo bem || Date: Sun Jun 10 19:30:57 2018
